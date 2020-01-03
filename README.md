@@ -1,0 +1,2 @@
+# KViOSIconCreator
+这是可以批量导出iOS全平台应用图标的小工具
